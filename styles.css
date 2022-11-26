@@ -725,7 +725,14 @@ RESPONSIVE
     .project__description--sub-title {
         margin-bottom: 8px;
     }
+    .project__description--title {
+        font-size: 20px;
+    }
     .modal__half {
         padding: 40px;
     }
+    .shape {
+        visibility: hidden;
+    }
+    
 }
